@@ -16,23 +16,20 @@ It's all in the name:
 
 By "history", I mean a factual account (evidence-based) of humanity's past.  It involves:
 
-+ **Events** that have happened.  These can be long or short.  Examples include the Stone Age, the formation of planet Earth, World War I, The Battle of the Somme, The Moon Landing.
-+ **People** who have lived, such as Srinivasa Ramanujan, Winston Churchill, David Bowie, Shaka Zulu, etc.
-+ Places - big or small (such as London, England, The Kingdom of Leon )
-+ Things (such as Panzerkampfwagen Tiger Ausf. B, The Compass, A Starry Night)
-+ Ideas (such as Christianity, Renaissance Philosophy)
++ **Events** that have happened.  These can be long or short, for example: The Stone Age; the formation of planet Earth; World War I; The Battle of the Somme; The Moon Landing; Lighbulb Invented.
++ **People**, alive or dead, such as Srinivasa Ramanujan, Winston Churchill, David Bowie, Shaka Zulu, and Queen Elizabeth I.
++ **Places**.  They can be entire regions such as Great Britain, or very specific locations, such as St Paul's Cathedral.  The places may not exist today, for example: The Kingdom of Leon or The Persian Empire.
++ **Things**: the objects of the past.  They could be specific things, such as Vincent van Gogh's *The Starry Night*, or general things such as the Panzerkampfwagen Tiger Ausf. B or the Compass.
++ **Ideas** such as Christianity, Renaissance Philosophy, Exploration, Feudalism, and so forth.
 
-What history is not:
+There are a number of things that, for this project, the term "history" does not mean:
 
-For this project, history is not:
-
-+ an interpretation of history
-+ legendary tales (Santa Claus, Ragnarr Loðbrok, King Arthur, etc.)
++ **The interpretation of history**.  Let's stick to the agreed-upon facts.
++ **Legendary tales** and **myth**, such as Santa Claus, the tale of Ragnarr Loðbrok, the legend of King Arthur, and other such events, places, and people for which there is no compelling evidence.
 
 ### 3. Database
 
 + The data is modelled as described in the data model
-+
 
 Why build an Open History Database?
 -----------------------------------
