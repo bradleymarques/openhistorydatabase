@@ -8,8 +8,8 @@ It's all in the name:
 
 + Any one can contribute to the project
 + Both the source-code and the data that the code produces is open
-  ++ The derivative data is provided under [the Creative Commons CC0 License](https://creativecommons.org/about/cc0/)
-  ++ The source-code used to scrape, shape and serve the data is provided under [The MIT License](https://opensource.org/licenses/MIT)
+  + The derivative data is provided under [the Creative Commons CC0 License](https://creativecommons.org/about/cc0/)
+  + The source-code used to scrape, shape and serve the data is provided under [The MIT License](https://opensource.org/licenses/MIT)
 
 ### History
 
