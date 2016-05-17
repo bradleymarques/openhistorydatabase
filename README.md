@@ -56,7 +56,19 @@ TODO
 + Anyone can add data to the system (once implemented)
 + Anyone can contribute code
 
-## Legal
+## License(s)
+
+### Code
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Bradley Marques
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Produced Data
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
@@ -68,7 +80,7 @@ TODO
   <a rel="dct:publisher"
      href="www.openhistorydatabase.org">
     <span property="dct:title">Bradley Marques</span></a>
-  has waived all copyright and related or neighboring rights to
+  has waived all copyright and related or neighboring rights to the data produced by
   <span property="dct:title">Open History Database</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
