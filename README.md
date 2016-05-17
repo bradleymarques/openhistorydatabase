@@ -21,7 +21,7 @@ The word "history", in this project, means a factual account (evidence-based) of
 + **Things**: the objects of the past.  They could be specific things, such as Vincent van Gogh's *The Starry Night*, or general things such as the *Panzerkampfwagen Tiger Ausf. B* or the compass.
 + **Ideas** that have spread through the world, such as religions, renaissance philosophy, exploration, feudalism, and so forth.
 
-For more details, have a look at [Data Model].
+For more details, have a look at [Data Model](#data-model).
 
 There are a number of things that, for this project, the term "history" does not mean:
 
@@ -30,7 +30,7 @@ There are a number of things that, for this project, the term "history" does not
 
 ### Database
 
-+ The data is modelled as described in [Data Model]
++ The data is modelled as described in [Data Model](#data-model)
 + An API should be built to allow for easy machine-driven addition, modification and cleaning of the data (see [Goals])
 
 ## Why build an Open History Database?
@@ -43,13 +43,13 @@ There are a number of things that, for this project, the term "history" does not
 ## Goals
 
 1. **Use existing knowledge bases.**  To reduce conflicting information and duplication of effort, existing sources of data, such as Wikipedia and Wikidata should be used.
-2. **Keep the data tody.**  [Tidy data][http://vita.had.co.nz/papers/tidy-data.pdf] = happy data!
+2. **Keep the data tody.**  [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf) = happy data!
 3. **Build an API**  Once implemented, anybody could contribute to the data, and individual tweaks are a must-have feature.  However, when dealing with data as big (potentially) as the whole of human history, machines are useful in scraping, shaping, analysing and posting vast amounts of data.  To this end, a friendly API should be built.
 4. **Present in visual and interactive manner** Having a vast quantity of historical data is one thing, but if human users aren't able to view, explore and interact with the data, then there is no point.  The project should provide some means of doing so.
 
 ## Data Model
 
-<TODO>
+TODO
 
 ## Contributing
 
